@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Zulfikar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
@@ -31,11 +31,11 @@
 
 - My portfolio on GitHub reflects my dedication to constantly learning and improving as a developer. I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.
 
-- I encourage you to take a look at my work on <a href="https://www.frontendmentor.io/profile/0xAbdulKhalid">Frontend Mentor</a>, where I have completed several design challenges to showcase my abilities.
+- I encourage you to take a look at my work on <a href="#">Frontend Mentor</a>, where I have completed several design challenges to showcase my abilities.
 
 - My ultimate goal is to create innovative and user-friendly web applications that provide real value to users.
 
-- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:0xabdulkhalid@gmail.com">0xabdulkhalid@gmail.com</a>
+- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="#">mail@gmail.com</a>
 
 - Thank you for visiting my profile, and I look forward to connecting with you!
 
@@ -122,24 +122,27 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
+	<a href="#" target="_blank">
+<!-- <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank"> -->
+<img src="https://img.shields.io/badge/linkedin:  Zulfikar-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
+	<a href="#" target="_blank">
+<!-- <a href="https://twitter.com/0xabdulkhalid" target="_blank"> -->
+<img src="https://img.shields.io/badge/twitter:  Zulfikar-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
+<a href="#" target="_blank">
+<!-- <a href="mailto:0xabdulkhalid@gmail.com" target="_blank"> -->
+<img src="https://img.shields.io/badge/gmail:  Zulfikar-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
 </a>
 </li>
 	
