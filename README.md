@@ -21,7 +21,7 @@
 <br>
 
 
-- Hello, and welcome to my GitHub profile! My name is Abdul Khalid, and I am a self-taught front-end developer with a passion for creating engaging and user-friendly web applications. 
+- Hello, and welcome to my GitHub profile! My name is Muhammed Zulfikar, and I am a self-taught front-end developer with a passion for creating engaging and user-friendly web applications. 
 
 - Currently, I am pursuing a Bachelor's degree in Computer Science, where I am also learning and expanding my knowledge in software development.
 
@@ -102,8 +102,8 @@
 
 <div align="center">
 
-[![Abdul Khalid's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Abdul Khalid's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Muhammed Zulfikar's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=zzulfi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/zzulfi)
+[![Muhammed Zulfikar's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zzulfi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/zzulfi)
 
 </div>
 
